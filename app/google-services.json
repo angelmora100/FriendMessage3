@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93581332499",
+    "firebase_url": "https://chat-f38dc.firebaseio.com",
+    "project_id": "chat-f38dc",
+    "storage_bucket": "chat-f38dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93581332499:android:360429127462fe4f",
+        "android_client_info": {
+          "package_name": "com.example.friendmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93581332499-ff785lhq2lht3qttlimp9e6ivr9mdkdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB81QuaXAO3y_V_EIYG1vFlTaf2JPDZ1kU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
